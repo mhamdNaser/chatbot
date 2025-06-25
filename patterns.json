@@ -1,0 +1,18 @@
+[
+  {
+    "patterns": ["مرحبا", "السلام عليكم", "أهلاً"],
+    "responses": ["أهلاً بك!", "وعليكم السلام", "مرحبًا كيف يمكنني مساعدتك؟"]
+  },
+  {
+    "patterns": ["hello", "hi", "hey"],
+    "responses": ["Hello!", "Hi there!", "Hey! How can I help?"]
+  },
+  {
+    "patterns": ["ما اسمك", "من أنت"],
+    "responses": ["أنا روبوت دردشة ذكي", "اسمي تشات بوت"]
+  },
+  {
+    "patterns": ["what is your name", "who are you"],
+    "responses": ["I am a smart chatbot!", "Call me ChatBot."]
+  }
+]
